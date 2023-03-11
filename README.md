@@ -8,7 +8,7 @@ This tutorial outlines the lifecycle of a ticket from intake to escalation withi
 
 
 
-<h2>Environments and Technologies Used</h2>
+<h2>Technologies Used</h2>
 
 * Microsoft Azure (Virtual Machine Instance)
 * Microsoft Remote Desktop
