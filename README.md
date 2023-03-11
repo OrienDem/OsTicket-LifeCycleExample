@@ -74,7 +74,7 @@ Step 4. As Que Manager Jane, reassign ticket priority level according to severit
 <img src="https://i.imgur.com/imXO97A.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Step 5. Continue Adjusting Ticket Severity as 'Jane Doe'
+Step 5. Update Ticket SLA plan as 'Jane Doe'
 </p>
 <br />
 
