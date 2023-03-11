@@ -43,7 +43,7 @@ Step 1. Fill out ticket as user and submit it with severity level business criti
 <img src="https://i.imgur.com/CP9VutP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Step 2. Login to osTicket as Agent Jane doe 
+Step 2. Login to osTicket as Agent Jane Doe 
 </p>
 <br />
 
