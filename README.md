@@ -62,7 +62,7 @@ This tutorial outlines the lifecycle of a ticket from intake to escalation withi
 <img src="https://i.imgur.com/zBrKgAk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
- As Que Manager Jane reassign ticket priority level according to severity of event
+ As Que Manager Jane, reassign ticket priority level according to severity of event.
 </p>
 <br />
 
