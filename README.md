@@ -54,3 +54,41 @@ Step 2 Fill out second ticket as second user Ken
 Step 3 Login to osTicket as Agent Jane doe 
 </p>
 <br />
+
+
+<p>
+<img src="https://i.imgur.com/QR4HcTw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Step 4 Navigate Ticket as Jane Doe
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/zBrKgAk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Step 5 As Que Manager Jane reassign ticket priority level according to severity of event
+</p>
+<br />
+
+<p>
+  
+  
+<p>
+<img src="https://i.imgur.com/imXO97A.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+  Step 6 Continue Adjusting Ticket Severity as 'Jane Doe'
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/Jjk8xxE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Step 7 Continue Adjusting Ticket As Jane 2
+</p>
+<br />
+
+<p>
